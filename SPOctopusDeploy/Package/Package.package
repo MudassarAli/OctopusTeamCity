@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="5318f0b0-89ca-4e8d-aab8-c29a2e9d3837" solutionId="5318f0b0-89ca-4e8d-aab8-c29a2e9d3837" resetWebServer="false" sharePointProductVersion="15.0" name="SPOctopusDeploy" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="50e5ebb1-93a1-465e-bd5b-adf857b9af4e" />
+  </features>
+</package>
